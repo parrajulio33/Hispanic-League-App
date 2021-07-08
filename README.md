@@ -8,3 +8,4 @@ This is a Django Web Portal for Softball Hispanic League.
 - to install Django: `pip install django`
 - to create a new Project `django-admin startproject hispanicleaguesoftball`
 - to run at first time server `cd hispanicleaguesoftball` and `python manage.py runserver`
+- to include requirements text file on the project we have to run `pip freeze > requirements`
